@@ -13,55 +13,53 @@ I am a self-tough programmer who like to learn new things in programming world. 
 ### Skills
 
 <p align="left">
-<div class="flex gap-x-1.5 flex-wrap gap-y-1.5">
-    <div class="relative"><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img
+    <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"
-                alt="Go" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+                alt="Go" width="36" height="36"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
             rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-                alt="JavaScript" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img
+                alt="JavaScript" width="36" height="36"></a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
-                alt="PHP" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img
+                alt="PHP" width="36" height="36"></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-                alt="TypeScript" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"
+                alt="TypeScript" width="36" height="36"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"
             rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-                alt="HTML5" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
+                alt="HTML5" width="36" height="36"></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-                alt="React" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img
+                alt="React" width="36" height="36"></a>
+    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"
-                alt="NextJs" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img
+                alt="NextJs" width="36" height="36"></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-                alt="CSS3" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
+                alt="CSS3" width="36" height="36"></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
-                alt="TailwindCSS" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img
+                alt="TailwindCSS" width="36" height="36"></a>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
-                alt="Redux" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img
+                alt="Redux" width="36" height="36"></a>
+    <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg"
-                alt="Svelte" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
+                alt="Svelte" width="36" height="36"></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-                alt="MySQL" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img
+                alt="MySQL" width="36" height="36"></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-                alt="PostgreSQL" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img
+                alt="PostgreSQL" width="36" height="36"></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
-                alt="Docker" width="36" height="36"></a></div>
-    <div class="relative"><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img
+                alt="Docker" width="36" height="36"></a>
+    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
-                alt="Linux" width="36" height="36"></a></div>
-</div>
+                alt="Linux" width="36" height="36"></a>
 </p>
 
 
