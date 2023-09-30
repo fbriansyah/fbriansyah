@@ -8,7 +8,7 @@ I am a self-tough programmer who like to learn new things in programming world. 
 
 * 🌍  I'm based in Malang, Indonesia
 * ✉️  You can contact me at [fbriansyah@gmail.com](mailto:fbriansyah@gmail.com)
-* 🧠  I'm learning gRpc
+* 🧠  I'm learning gRpc, microservice, DDD, and Hexagonal architecture.
 
 ### Skills
 
